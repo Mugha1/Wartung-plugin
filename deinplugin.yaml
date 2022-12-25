@@ -1,0 +1,14 @@
+specVersion: 1
+type: plugin
+name: Wartung
+authors:
+  - Mugha
+supportedGameVersions: ^1.8
+category: misc
+introduction: Ein Plugin um dein Minecraft server in Wartung zu Setzen!
+description: |
+  # Überblick 
+  Das plugin kann dein Minecraft Server in Wartung Setzen.
+  
+  # Nutzung
+  Zur Nutzung des Plugins muss lediglich `/Wartung an` im Chat eingegeben werden.

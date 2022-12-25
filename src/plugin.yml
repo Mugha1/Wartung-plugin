@@ -1,0 +1,7 @@
+name: DeinPlugin Wartungs Mode
+author: Mugha1
+version: 1.0
+main: de.tobu.ultra.wartungsmodus.Core
+
+commands:
+  wartung:

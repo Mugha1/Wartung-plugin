@@ -1,0 +1,18 @@
+# Der Wert, ob der Wartungsmodus aktiv ist. Hier änderbar oder Ingame mit /Wartung <an | aus>
+wartung-aktiv: false
+
+# Colorcodes sind in jeder Nachricht verwendbar
+messages:
+
+  # Wird dem Spieler gesendet, wenn er versucht auf den Server zu joinen, aber der Wartungsmodus aktiv ist
+  wartung-ist-aktiv:
+    - '&6&lUltraSucht.de'
+    - '&cDu kannst dem Server nicht beitreten!'
+    - ''
+    - '&3Grund: &eWartungsmodus'
+    - ''
+    - '&aFür weitere Informationen schau auf unserer Website nach!'
+    - '&e&nhttps://UltraSucht.de'
+
+
+  motd: '&6&lUltraSucht &8- &c&lWartungsmodus                    &fWir sind gerade im Wartungsmodus!'
